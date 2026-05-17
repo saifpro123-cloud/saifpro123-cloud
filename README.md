@@ -34,15 +34,10 @@ A results-driven **Backend Developer** focused on turning complex business requi
 
 ---
 
-### 📊 GitHub Activity & Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=saifpro123-cloud&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Saif's GitHub Stats" height="180px" />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-elsayed-ba073839a/)
+
+
 
 
 
